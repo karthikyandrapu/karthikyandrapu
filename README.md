@@ -27,9 +27,9 @@
 <p>
 <a href="https://linkedin.com/in/karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="mailto:durgakarthikyandrapu@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
-<a href="https://www.youtube.com/c/durgakarthikyandrapu" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> &nbsp;
-<a href="https://linktr.ee/karthikyandrapu" target="blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
-<a href="https://hashnode.com/@karthikyandrapu" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a> &nbsp;
+<a href="https://www.youtube.com/@DurgaKarthikYandrapu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> &nbsp;
+<a href="https://linktr.ee/karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
+<a href="https://hashnode.com/@karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a> &nbsp;
 </p>
 </div>
 <br/>
