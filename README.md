@@ -12,7 +12,7 @@
 <br/><br/>
 - 🔭 These days I'm working on different kinds of projects !
 
-- 🌱 I’m currently learning **AWS, Go, gRPC**
+- 🌱 I’m currently learning **AWS**
 
 - 📄 Know more about my experiences through my [Resume](https://drive.google.com/file/d/1h4PxTD5YkSRahwASulVeOgDVayIzGe4e/view?usp=sharing)
 
