@@ -118,8 +118,5 @@
   <img src="https://img.shields.io/github/stars/karthikyandrapu?style=social" alt="GitHub Stars"/>
 </div>
 
-<!-- Snake animation for contributions -->
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg)
-
 <!-- Decorative rainbow divider -->
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
