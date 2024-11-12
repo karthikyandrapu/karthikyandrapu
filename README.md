@@ -49,14 +49,13 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
   </a>
   <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="98px" height="98px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" /> -->
+    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a> 
 </div>
 <br/>
@@ -82,28 +81,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=karthikyandrapu&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyandrapu&theme=radical" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyandrapu&layout=compact&theme=radical" alt="Top Languages">
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="https://github-profile-trophy.vercel.app/?username=karthikyandrapu&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
-</td>
-</tr>
-</table>
-<table width="100%" align="center">
-<tr>
-<td>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikyandrapu&theme=github-dark&area=true" alt="Contribution Graph" />
+  <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyandrapu&layout=compact&theme=radical" alt="Top Languages">
 </td>
 </tr>
 </table>
