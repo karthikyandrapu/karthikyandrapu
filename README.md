@@ -83,6 +83,16 @@
 <td>
   <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyandrapu&layout=compact&theme=radical" alt="Top Languages">
 </td>
+<td>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyandrapu&theme=radical" alt="Streak Stats"/></td>
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikyandrapu&theme=github-dark&area=true" alt="Contribution Graph" />
+</td>
 </tr>
 </table>
 </div>
