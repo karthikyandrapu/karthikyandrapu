@@ -106,5 +106,4 @@
   <img src="https://img.shields.io/github/stars/karthikyandrapu?style=social" alt="GitHub Stars"/>
 </div>
 
-<!-- Decorative rainbow divider -->
 <img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
