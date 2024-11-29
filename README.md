@@ -88,13 +88,13 @@
 </td>
 </tr>
 </table>
-<!-- <table width="100%" align="center">
+<table width="100%" align="center">
 <tr>
 <td>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikyandrapu&bg_color=030303&color=db7210&line=d09011&point=db7210&area=true&hide_border=true" alt="Contribution Graph" />
 </td>
 </tr>
-</table> -->
+</table>
 </div>
 <br/>
 
