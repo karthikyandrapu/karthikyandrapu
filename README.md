@@ -1,22 +1,26 @@
 <!-- Header Section -->
-<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Durga Karthik Yandrapu <img height="50" alt="Dog" src="https://i.gifer.com/Vg5.gif"/> </h1>
+<img src="https://raw.githubusercontent.com/karthikyandrapu/karthikyandrapu/refs/heads/main/fbc6f31bd3.gif">
 
-<!-- About Section -->
-<h3 align="center">I am a proactive and tech-savvy Computer Science student. Focused on software development and emerging technologies, I am seeking opportunities to contribute my skills and enthusiasm to innovative software development projects.</h3>
-<hr/>
+<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Durga Karthik Yandrapu </h1>
 
-<!-- Profile Image on the Right -->
-<img align="right" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Profile Image" height=300  />
+<!--Night Owl image-->
+<div>
+  <img align="right" width="30%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+<br/>
 
 <!-- Current work and learning highlights -->
-<br/><br/>
+<p align="left">I am a Proactive and tech-savvy Computer Science student with a passion for software development and emerging technologies, seeking to contribute to innovative projects.</p>
+
 - 🔭 These days I'm working on different kinds of projects !
 
 - 🌱 I’m currently learning **AWS Cloud**
 
-- 📄 Know more about my experiences through my [Resume](https://drive.google.com/file/d/1h4PxTD5YkSRahwASulVeOgDVayIzGe4e/view?usp=sharing)
+- ❤ Contributing to **Open Source**.
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://karthikyandrapu.github.io/Portfolio/)
+- 📄 Know more about my experiences through my [Resume](https://drive.google.com/file/d/1wWqAbYfcy-EmMUp61JnBfmJPBy_qKF6C/view?usp=sharing)
+
+- 👨‍💻 Visit my [Portfolio](https://karthikyandrapu.github.io/Portfolio/) for more details about me.
 
 - 📫 How to reach me **durgakarthikyandrapu@gmail.com**
 <br/><br/>
@@ -25,11 +29,10 @@
 ## Connect with me 🌐
 <div align="center">
 <p>
-<a href="https://linkedin.com/in/karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
-<a href="mailto:durgakarthikyandrapu@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a> &nbsp;
-<a href="https://www.youtube.com/@DurgaKarthikYandrapu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></img></a> &nbsp;
-<a href="https://linktr.ee/karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></img></a> &nbsp;
-<a href="https://hashnode.com/@karthikyandrapu" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></img></a> &nbsp;
+<a href="https://github.com/karthikyandrapu" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a> &nbsp;
+<a href="https://linkedin.com/in/karthikyandrapu" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a> &nbsp;
+<a href="mailto:durgakarthikyandrapu@gmail.com?subject=[GitHub]%20Source%20Han%20Sans"><img src="https://skillicons.dev/icons?i=gmail"></img></a> &nbsp;
+<a href="https://www.youtube.com/@DurgaKarthikYandrapu" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="50" width="50" /></img></a> &nbsp;
 </p>
 </div>
 <br/>
@@ -63,6 +66,13 @@
 <!-- Holopin Badges Section -->
 ## Holopin Badges 🪶
 [![An image of @karthikyandrapu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/karthikyandrapu)](https://holopin.io/@karthikyandrapu)
+<br/>
+
+<!-- Leetcode Section -->
+## Leetcode Stats ⚡
+<div align="center">
+  <img width="400em" src="https://leetcard.jacoblin.cool/karthikyandrapu?theme=chartreuse&font=Nokora&ext=heatmap" alt="LeetCode Stats">
+</div>
 <br/>
 
 <!-- GitHub Stats Section -->
@@ -106,4 +116,4 @@
   <img src="https://img.shields.io/github/stars/karthikyandrapu?style=social" alt="GitHub Stars"/>
 </div>
 
-<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
