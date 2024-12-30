@@ -69,11 +69,11 @@
 <br/>
 
 <!-- Leetcode Section -->
-## Leetcode Stats ⚡
+<!-- ## Leetcode Stats ⚡
 <div align="center">
   <img width="400em" src="https://leetcard.jacoblin.cool/karthikyandrapu?theme=chartreuse&font=Nokora&ext=heatmap" alt="LeetCode Stats">
 </div>
-<br/>
+<br/> -->
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats 📊
