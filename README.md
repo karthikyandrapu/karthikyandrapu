@@ -94,7 +94,7 @@
   <img width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikyandrapu&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikyandrapu&theme=highcontrast" alt="Streak Stats"/></td>
+  <img width="420em" src="https://streak-stats.demolab.com?user=karthikyandrapu&theme=highcontrast" alt="Streak Stats"/></td>
 </td>
 </tr>
 </table>
